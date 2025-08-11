@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 if (process.argv.length < 3) {
-  console.error("Usage: node toggle-exclamation.js <path-to-java-file>");
+  console.error("Usage: node editadService.js <path-to-java-file>");
   process.exit(1);
 }
 

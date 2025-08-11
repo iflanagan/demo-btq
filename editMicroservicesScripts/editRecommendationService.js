@@ -3,7 +3,7 @@ const fs = require("fs");
 // Get file path from arguments
 const filePath = process.argv[2];
 if (!filePath) {
-    console.error("Usage: node update-print.js <path-to-file>");
+    console.error("Usage: node editRecommendationService.js <path-to-file>");
     process.exit(1);
 }
 
