@@ -2,7 +2,7 @@
     "products": [
         {
             "id": "OLJCESPC7Z",
-            "name": "Sunglasses",
+            "name": "Sunglasses_new",
             "description": "Add a modern touch to your outfits with these sleek aviator sunglasses.",
             "picture": "/static/img/products/sunglasses.jpg",
             "priceUsd": {
@@ -14,7 +14,7 @@
         },
         {
             "id": "66VCHSJNUP",
-            "name": "Tank Top",
+            "name": "Tank Top_new",
             "description": "Perfectly cropped cotton tank, with a scooped neckline.",
             "picture": "/static/img/products/tank-top.jpg",
             "priceUsd": {
@@ -26,7 +26,7 @@
         },
         {
             "id": "1YMWWN1N4O",
-            "name": "Watch",
+            "name": "Watch_new",
             "description": "This gold-tone stainless steel watch will work with most of your outfits.",
             "picture": "/static/img/products/watch.jpg",
             "priceUsd": {
@@ -38,7 +38,7 @@
         },
         {
             "id": "L9ECAV7KIM",
-            "name": "Loafers",
+            "name": "Loafers_new",
             "description": "A neat addition to your summer wardrobe.",
             "picture": "/static/img/products/loafers.jpg",
             "priceUsd": {
